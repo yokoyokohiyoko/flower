@@ -72,6 +72,8 @@ header img {
 
 }
 
+
+
 .features > h1 {
   text-align: center;
   padding: 64px 0;
@@ -232,6 +234,7 @@ footer {
 
   .features .pic {
     width: 50%;
+    
   }
 
   .features .info {
